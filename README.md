@@ -1,1 +1,1 @@
-# create-react-app biolerpalte 1
+# create-react-app boilerplate 1.0
