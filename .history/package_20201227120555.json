@@ -1,0 +1,20 @@
+{
+  "name": "creactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilenkoM/createreactapp.git"
+  },
+  "keywords": [],
+  "author": "Milenko m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilenkoM/createreactapp/issues"
+  },
+  "homepage": "https://github.com/MilenkoM/createreactapp#readme"
+}
